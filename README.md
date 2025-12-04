@@ -12,4 +12,4 @@ soundnessup install
 
 
 Proofs2 badges 1
-0 knight
+1 knight
